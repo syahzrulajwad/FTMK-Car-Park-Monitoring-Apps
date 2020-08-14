@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425312936986",
+    "firebase_url": "https://currentplacedetailsonmap-fa585.firebaseio.com",
+    "project_id": "currentplacedetailsonmap-fa585",
+    "storage_bucket": "currentplacedetailsonmap-fa585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425312936986:android:2d1a4797c32ccd90b2dda3",
+        "android_client_info": {
+          "package_name": "com.example.currentplacedetailsonmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425312936986-3ainqssafaq6ve5j4nsj49g5gc1krc7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currentplacedetailsonmap",
+            "certificate_hash": "f398e352ac37e58bf56b98ee9cf6aad67e18e7c4"
+          }
+        },
+        {
+          "client_id": "425312936986-vjfa2pmdjq9vn9bleode6m7kduce0kbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaWZ3nnxQKo2LvAVqPggQYkTuD0Yco7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425312936986-vjfa2pmdjq9vn9bleode6m7kduce0kbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
